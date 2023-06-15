@@ -40,9 +40,6 @@
     clear: both;
 }
 
-.debug {
-    border: 2px solid black;
-}
 
 .container {
     max-width: 1200px;
